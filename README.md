@@ -1,1 +1,1 @@
-# funchats.netlify.app
+# https://funchats.netlify.app/
